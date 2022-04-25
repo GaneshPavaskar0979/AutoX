@@ -1,4 +1,4 @@
-![SRS](AutoX/Docs/Images/Software-Requirement-Specifications.jpg)
+![SRS](/Docs/Images/Software-Requirement-Specifications.jpg)
 
 
 
