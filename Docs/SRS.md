@@ -1,19 +1,16 @@
-![SRS](/Docs/Images/Software-Requirement-Specifications.jpg)
 
-
-
-
-
+<p align="center">
+  <img width="460" height="300" src="/Docs/Images/Software-Requirement-Specifications.jpg">
+</p>
 
 
 
 # AutoX - SSO Client with automated COCI from & to the Vault
-
-
-
-
-Index
 -------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Index
 
 1. Introduction
 
