@@ -1,12 +1,19 @@
+![SRS](AutoX/Docs/Images/Software-Requirement-Specifications.jpg)
+
+
+
+
+
+
+
+
 # AutoX - SSO Client with automated COCI from & to the Vault
 
 
 
-Softtware Requirement Specification
 
-#
-#
-#
+
+
 
 
 
